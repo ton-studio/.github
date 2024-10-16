@@ -11,7 +11,7 @@ At TON Studio, we empower developers by offering a suite of tools, resources, an
 ## What We Do
 
 ### 1. **Telegram Mini Apps Development Tools**
-Explore our [repository of Telegram mini apps tools](https://github.com/telegram-mini-apps). We continuously build and curate resources to help developers streamline their app development process.
+Explore our [Telegram Mini Apps community](https://github.com/telegram-mini-apps) with tools and solutions for developers. We continuously build and curate resources to help developers streamline their app development process.
 
 ### 2. **Tact Language**
 As the main contributor to the **Tact language**, we focus on developing and auditing high-performance, secure smart contracts on TON. Learn more about Tact at [tact-lang.org](https://tact-lang.org/) and check out the Tact repository [here](https://github.com/tact-lang).
@@ -35,4 +35,4 @@ We invite you to explore our projects, contribute to our repositories, and join 
 
 ---
 
-Feel free to reach out if you have any questions, suggestions, or if you want to collaborate!
+Feel free to reach out if you have any questions, suggestions, or want to collaborate!
