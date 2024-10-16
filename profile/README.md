@@ -31,6 +31,7 @@ We invite you to explore our projects, contribute to our repositories, and join 
 - **Documentation**: [docs.ton.org](https://docs.ton.org)
 - **TON Documentation Repository**: [ton-community/ton-docs](https://github.com/ton-community/ton-docs)
 - **Twitter**: [@thetonstudio](https://x.com/thetonstudio)
+- **Telegram** [@ton_studio](https://t.me/ton_studio)
 
 ---
 
