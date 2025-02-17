@@ -19,6 +19,9 @@ As the main contributor to the **Tact language**, we focus on developing and aud
 ### 3. **Documentation Maintenance**
 We maintain [docs.ton.org](https://docs.ton.org) and actively contribute to the [TON documentation repository](https://github.com/ton-community/ton-docs), ensuring that developers have access to up-to-date and comprehensive resources.
 
+### 4. **Public TON Data Lake**
+We maintain the [TON Public data lake](https://github.com/ton-studio/ton-etl/blob/main/datalake/README.md) built by the [TON-ETL](https://github.com/ton-studio/ton-etl/tree/main) project - unified decoding layer for the raw TON blockchain data. Also we host [ton-labels project](https://github.com/ton-studio/ton-labels) - a catalog of labeled addresses and project taxonomy.
+
 ## Join Us
 
 We invite you to explore our projects, contribute to our repositories, and join our community of developers passionate about the TON ecosystem. 
